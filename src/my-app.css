@@ -1,0 +1,9 @@
+.message {
+  background-color: lightblue;
+}
+
+.text {
+  display: inline-block;
+  position: absolute;
+  font-size: 7px;
+}
